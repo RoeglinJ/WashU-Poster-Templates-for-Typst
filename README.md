@@ -13,12 +13,15 @@ Compile with Typst >= 0.12. Replace the sample title, authors, section content, 
 
 **38x40:**
 
-<img width="876" height="1002" alt="image" src="https://github.com/user-attachments/assets/441aaaff-6b5b-43c9-a565-1c53625560a4" />
+<img width="845" height="970" alt="image" src="https://github.com/user-attachments/assets/1fda3a8f-0929-4762-b806-bc3dfe3fcbac" />
+
 
 **48x36:**
 
-<img width="870" height="722" alt="image" src="https://github.com/user-attachments/assets/d5f4cec4-b034-41e7-8a63-959a14f5294c" />
+<img width="1166" height="964" alt="image" src="https://github.com/user-attachments/assets/9c297210-8998-4844-bd51-063531487283" />
+
 
 **56x42:**
 
-<img width="872" height="726" alt="image" src="https://github.com/user-attachments/assets/c1a081f4-9380-4be0-9c85-cf3ac9ba4c5d" />
+<img width="1121" height="919" alt="image" src="https://github.com/user-attachments/assets/d9751959-08ce-4218-8401-fc78a7da10c8" />
+
